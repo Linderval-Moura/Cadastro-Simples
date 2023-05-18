@@ -1,3 +1,3 @@
-Sistema de Cadastro simples em Python com Tkinter.
+Desenvolvendo um Sistema de Cadastro em Python com Tkinter.
 /
-Simple Registration System in Python with Tkinter.
+Developing a Registration System in Python with Tkinter.
